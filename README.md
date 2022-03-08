@@ -4,7 +4,7 @@ BSC Contract adress : 0x98c6fd0281a9a0300cb88553bf386a3492bb70f7
 https://bscscan.com/address/0x98c6fd0281a9a0300cb88553bf386a3492bb70f7 
 You can see all our projects at the links below.
 https://broovs.io
-https://broovs.io/IndexPage/file/Broovs_Whitepaper_en.pdf
+https://broovs.io/whitepaper_en.pdf
 https://github.com/raysofttr/BRS
 https://github.com/broovscom/broovser
 https://github.com/xraychain
