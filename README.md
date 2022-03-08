@@ -9,9 +9,9 @@ https://github.com/raysofttr/BRS
 https://github.com/broovscom/broovser
 https://github.com/xraychain 
 http://www.facebook.com/broovscom
-https://twitter.com/broovstoken
-https://www.youtube.com/watch?v=j77XE2w1F0I
+https://twitter.com/broovsproject 
 https://www.youtube.com/c/BroovsToken, 
+https://www.youtube.com/channel/UCu0PPuTiwlaI8xaIF6w272Q 
 https://www.youtube.com/watch?v=KZjf95HVZjU
 https://play.google.com/store/apps/details?id=com.broovs.broovs&gl=TR-  
 https://play.google.com/store/apps/details?id=com.broovs.swiftmessenger&gl=TR
